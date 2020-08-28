@@ -5,8 +5,6 @@ public class FirstDemo {
     private String id;
     private Integer age;
 
-    public FirstDemo(){};
-
     public FirstDemo(String name, String id, Integer age) {
         this.name = name;
         this.id = id;
